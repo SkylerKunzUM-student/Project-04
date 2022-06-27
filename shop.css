@@ -67,6 +67,8 @@ html {
 
 .homepage {
     background-color: lavender;
+    height: 90%px;
+    width: 50%;
     font-size: 25;
     padding: 50px;
     margin-left: 20%;
