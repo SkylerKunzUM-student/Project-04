@@ -70,6 +70,8 @@ html {
 }
 
 .homepage h1 {
+    position: absolute;
     text-align: center;
+    margin: auto;
     font-size: 30px;
 }
