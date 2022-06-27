@@ -88,20 +88,20 @@ html {
 
 .lav1 {
     position: absolute;
-    height: 300px;
+    height: 150px;
     width: auto;
 } 
 .lav2 {
     position: absolute;
     margin-top: 350px;
-    height: 300px;
+    height: 150px;
     width: auto;
 } 
 
 .lav3 {
     position: absolute;
     margin-top: 700px;
-    height: 300px;
+    height: 150px;
     width: auto;
 } 
 .items p {
