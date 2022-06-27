@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(252, 233, 204);
+    background-color: rgb(179, 119, 30);
     background-size: cover;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -69,7 +69,8 @@ html {
     padding: 50px;
     margin-left: 20%;
     margin-right: 20%;
-    margin-top: 10%;
+    margin-top: 20px;
+    margin-bottom: 20%;
     border: inset;
 }
 
