@@ -64,9 +64,7 @@ html {
 .homepage {
     background-color: lavender;
     font-size: 25;
-    padding: 50px;
-    border-right: 200px;
-    border-right: 200px;
+    padding: 100px;
+    margin: 200px;
     border: inset;
-
 }
