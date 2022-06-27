@@ -104,3 +104,8 @@ html {
     height: 300px;
     width: auto;
 } 
+.items {
+    float: right;
+    font-size: 30px;
+    line-height: 300px;
+}
