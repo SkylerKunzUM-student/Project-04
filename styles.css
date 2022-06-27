@@ -1,0 +1,51 @@
+.main-nav {
+    height: 80px;
+    width: 100%;
+    background: lavender;
+
+}
+
+.logo {
+    height: 80px;
+    width: auto;
+}
+
+.main-nav ul {
+    float: right;
+    margin-right: 20px;
+    margin-top: 0%;
+}
+
+.main-nav ul li { 
+    list-style: none;
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+
+.main-nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding: 6px 20px;
+}
+
+.main-nav h1 {
+    font-size: medium;
+    text-align: center;
+}
+
+.main-nav ul li a:active{
+    background-color: blueviolet;
+    border-radius: 4px;
+}
+
+.main-nav ul li a:hover {
+    background-color: gray;
+    border-radius: 4px;
+}
+
+.header h1 {
+    text-align: center;
+    font-size: medium;
+}
