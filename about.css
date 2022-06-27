@@ -1,36 +1,84 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Purple Sun Park</title>
-    <link href="home.css" type="text/css" rel="stylesheet"/>
-  </head>
-  <body>
-    <header class= "main-header">
-      <nav class="main-nav">
-        <img class="logo" src="image/logo.jpg">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="shop.html">Shop</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
-    </header>
-    <div class="name">
-      <h1 href="index.html">Purple Sun Park</h1>
-    </div>
-    <div class="info">
-      <h1>Home</h1>
-      <div class="homepage">
-        <p>Lorem ipsum dolor sit amet, mei legimus tractatos no, an tation legere officiis duo, prima ipsum fugit pri cu. Eum fastidii inimicus gloriatur no, at nec dico ornatus eleifend, amet cibo theophrastus vix te. Qui summo dissentias eu. Ea probatus splendide per. Eum ad eros nostro perfecto, pri putant tritani alienum ne. Et facete debitis pro.
-          Id idque fugit per, ut viris legendos mei. Vis nihil menandri at, idque essent his ut, sumo exerci consetetur eum in. Ut his decore scaevola posidonium. Habeo praesent facilisis ex pro, vis ut maiestatis consetetur dissentiet, oportere periculis mnesarchum nam ne. Cu ridens vidisse labores pri. Dicant eripuit ei vix, pri ullum civibus dissentiet
-          et, cu est sint vide putant. Nam in quem tractatos, no utamur laboramus vel.
-          Qui eu mazim oratio. Usu ne aperiam diceret, per ei tantas causae democritum. Nam rebum delicata ut, habeo nostro eos ut. Et dissentiunt signiferumque est.Paulo tamquam constituam no est, vim legendos molestiae eu, has ad omnes dolorum omittam. Veritus propriae intellegam mea ea. Mei ne saepe rationibus consectetuer. Nonumy fabulas vel ne, no sit
-          movet putent sententiae. Fuisset tibique necessitatibus id ius, propriae euripidis pri et, accusamus incorrupte qui cu. Ex quot mediocritatem mel, est at oblique referrentur voluptatibus, sed ut docendi gubergren.Vis ei alia equidem, nec ut nominavi erroribus abhorreant. Sumo nostrum periculis cum ea, aliquam iudicabit id usu. Per modus sensibus ea,
-          ea assum verear ceteros vix. Quod dignissim nec in, eos homero suavitate complectitur an.</p>
-      </div>
-    
-    </div>
-  
-  </body>
-</html>
+html {
+  background-image: linear-gradient(rgb(233, 194, 121), rgb(153, 153, 223));
+  background-size: cover;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main-nav {
+  height: 80px;
+  width: 100%;
+  background: rgb(93, 93, 230);
+
+}
+
+.logo {
+  height: 80px;
+  width: auto;
+}
+
+.main-nav ul {
+  float: right;
+  margin-right: 20px;
+  margin-top: 0%;
+}
+
+.main-nav ul li { 
+  list-style: none;
+  display: inline-block;
+  margin: 0 8px;
+  line-height: 80px;
+}
+
+.main-nav ul li a {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(252, 248, 210);
+  font-size: 30px;
+  padding: 6px 20px;
+}
+
+.main-nav h1 {
+  font-size: medium;
+  text-align: center;
+}
+
+.main-nav ul li a:active{
+  background-color: blueviolet;
+  border-radius: 4px;
+}
+
+.main-nav ul li a:hover {
+  background-color: rgb(179, 119, 30);
+  border-radius: 4px;
+}
+
+.name {
+  position: absolute;
+  right: 55%;
+  top: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  color: rgb(252, 248, 210);
+  border: 1px rgb(252, 248, 210);
+  border-radius: 10px;
+}
+
+.homepage {
+  background-color: lavender;
+  font-size: 25;
+  padding: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+  margin-bottom: 20%;
+  border: inset;
+}
+
+.info h1 {
+  text-align: center;
+  font-size: 35px;
+  margin-right: 45%;
+  margin-left: 45%;
+  padding: 15px;
+}
