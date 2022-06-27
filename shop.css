@@ -82,3 +82,9 @@ html {
     margin-left: 45%;
     padding: 15px;
 }
+
+.lav1 {
+    position: absolute;
+    height: 300px;
+    width: auto;
+} 
