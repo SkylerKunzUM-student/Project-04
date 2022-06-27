@@ -66,16 +66,16 @@ html {
 .homepage {
     background-color: lavender;
     font-size: 25;
-    padding: 10px 100px 100px 10px;
+    padding: 50px;
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 10%;
     border: inset;
 }
 
-.homepage h1 {
+.info h1 {
     position: absolute;
     text-align: center;
-    margin: auto;
+    margin: left 50%
     font-size: 30px;
 }
