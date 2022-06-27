@@ -65,6 +65,7 @@ html {
     background-color: lavender;
     font-size: 25;
     padding: 100px;
-    margin: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
     border: inset;
 }
