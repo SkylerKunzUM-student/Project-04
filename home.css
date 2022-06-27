@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(252, 249, 204);
+    background-color: rgb(252, 233, 204);
     background-size: cover;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -7,7 +7,7 @@ html {
 .main-nav {
     height: 80px;
     width: 100%;
-    background: lavender;
+    background: rgb(122, 122, 241);
 
 }
 
