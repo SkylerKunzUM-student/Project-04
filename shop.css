@@ -1,0 +1,84 @@
+html {
+    background-image: linear-gradient(rgb(233, 194, 121), rgb(153, 153, 223));
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main-nav {
+    height: 80px;
+    width: 100%;
+    background: rgb(93, 93, 230);
+
+}
+
+.logo {
+    height: 80px;
+    width: auto;
+}
+
+.main-nav ul {
+    float: right;
+    margin-right: 20px;
+    margin-top: 0%;
+}
+
+.main-nav ul li { 
+    list-style: none;
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+
+.main-nav ul li a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(252, 248, 210);
+    font-size: 30px;
+    padding: 6px 20px;
+}
+
+.main-nav h1 {
+    font-size: medium;
+    text-align: center;
+}
+
+.main-nav ul li a:active{
+    background-color: blueviolet;
+    border-radius: 4px;
+}
+
+.main-nav ul li a:hover {
+    background-color: rgb(179, 119, 30);
+    border-radius: 4px;
+}
+
+.name {
+    position: absolute;
+    right: 55%;
+    top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(252, 248, 210);
+    border: 1px rgb(252, 248, 210);
+    border-radius: 10px;
+}
+
+.homepage {
+    background-color: lavender;
+    font-size: 25;
+    padding: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20%;
+    border: inset;
+}
+
+.info h1 {
+    text-align: center;
+    font-size: 35px;
+    margin-right: 45%;
+    margin-left: 45%;
+    padding: 15px;
+}
