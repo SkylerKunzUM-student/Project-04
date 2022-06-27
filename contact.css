@@ -51,21 +51,3 @@ html {
     background-color: gray;
     border-radius: 4px;
 }
-
-.name {
-    position: absolute;
-    right: 400px;
-    top: 40px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    border: 1px black;
-    border-radius: 10px;
-}
-
-.homepage {
-    background-color: lavender;
-    padding: 25px;
-}
-
-.homepage h1 {
-    font-size: 20px;
-}
