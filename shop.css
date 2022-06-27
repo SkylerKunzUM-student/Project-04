@@ -106,4 +106,5 @@ html {
 } 
 .product-info h1 {
     position: absolute;
+    float: right;
 }
