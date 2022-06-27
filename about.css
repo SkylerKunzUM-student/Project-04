@@ -82,3 +82,9 @@ html {
   margin-left: 45%;
   padding: 15px;
 }
+
+.insta {
+  position: absolute;
+  height: 100px;
+  width: auto;
+}
