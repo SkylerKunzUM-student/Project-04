@@ -3,32 +3,27 @@ html {
     background-size: cover;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 .main-nav {
     height: 80px;
     width: 100%;
     background: rgb(93, 93, 230);
 
 }
-
 .logo {
     height: 80px;
     width: auto;
 }
-
 .main-nav ul {
     float: right;
     margin-right: 20px;
     margin-top: 0%;
 }
-
 .main-nav ul li { 
     list-style: none;
     display: inline-block;
     margin: 0 8px;
     line-height: 80px;
 }
-
 .main-nav ul li a {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
@@ -37,22 +32,18 @@ html {
     font-size: 30px;
     padding: 6px 20px;
 }
-
 .main-nav h1 {
     font-size: medium;
     text-align: center;
 }
-
 .main-nav ul li a:active{
     background-color: blueviolet;
     border-radius: 4px;
 }
-
 .main-nav ul li a:hover {
     background-color: rgb(179, 119, 30);
     border-radius: 4px;
 }
-
 .name {
     position: absolute;
     text-align: center;
@@ -64,7 +55,6 @@ html {
     border: 1px rgb(252, 248, 210);
     border-radius: 10px;
 }
-
 .homepage {
     background-color: lavender;
     text-align: center;
@@ -76,10 +66,17 @@ html {
     margin-bottom: 20%;
     border: inset;
 }
-
-.contact-form {
+.form {
     margin-top: 25px;
+    color: lavender;
     border-top: 1px solid black;
     background: transparent;
+    font-size: 20px;
+}
+input {
+    height: 45px;
+}
+form.submit {
+    border: 1px black;
     font-size: 20px;
 }
