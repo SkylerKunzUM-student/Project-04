@@ -68,15 +68,20 @@ html {
 }
 .form {
     margin-top: 25px;
-    color: lavender;
-    border-top: 1px solid black;
+    width: 600
+    border: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid black;
+    color: #fff;
     background: transparent;
     font-size: 20px;
+    margin bottom: 20px;
 }
 input {
     height: 45px;
 }
 form.submit {
-    border: 1px black;
+   background-color: red;
     font-size: 20px;
 }
