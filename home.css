@@ -86,9 +86,10 @@ html {
     text-align: center;
     text-decoration: none;
     font-size: 15px;
-    text-transform: capitalize;
+    color: rgb(252, 248, 210;
     padding: 10px;
-    background-color: rgb(93, 93, 230);
+    border-radius: 4px;
+    background-color: rgb(148, 148, 240);
     margin-right: 46%;
     margin-left: 46%;
 }
