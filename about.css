@@ -85,6 +85,8 @@ html {
 
 .insta {
   position: absolute;
+  margin-right: 45%;
+  margin-left: 45%;
   height: 100px;
   width: auto;
 }
