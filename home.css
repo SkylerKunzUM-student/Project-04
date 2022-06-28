@@ -85,6 +85,10 @@ html {
 .button {
     text-align: center;
     text-decoration: none;
-    font-size: medium;
+    font-size: 15px;
+    text-transform: capitalize;
+    padding: 10px;
     background-color: rgb(93, 93, 230);
+    margin-right: 46%;
+    margin-left: 46%;
 }
