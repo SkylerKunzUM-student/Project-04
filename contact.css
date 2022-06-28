@@ -57,6 +57,8 @@ html {
 }
 .info {
     text-align: center;
+    margin-left: 45%;
+    margin-right: auto;
 }
 .homepage {
     background-color: lavender;
