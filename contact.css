@@ -55,6 +55,7 @@ html {
 
 .name {
     position: absolute;
+    text-align: center;
     right: 55%;
     top: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -78,7 +79,7 @@ html {
 
 .contact-form {
     margin-top: 25px;
-    border border-top: 1px solid black;
+    border-top: 1px solid black;
     background: transparent;
-    font size: 20px;
+    font-size: 20px;
 }
