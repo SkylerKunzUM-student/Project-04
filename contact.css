@@ -55,6 +55,9 @@ html {
     border: 1px rgb(252, 248, 210);
     border-radius: 10px;
 }
+.info {
+    text-align: center;
+}
 .homepage {
     background-color: lavender;
     text-align: center;
