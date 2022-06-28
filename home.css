@@ -82,3 +82,9 @@ html {
     margin-left: 45%;
     padding: 15px;
 }
+.button {
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    background-color: rgb(93, 93, 230);
+}
